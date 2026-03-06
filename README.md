@@ -97,8 +97,8 @@ El archivo `style.css` **debe** comenzar con un comentario especial que WordPres
 /*
     Theme Name: Gym Fitness
     Theme URI:
-    Author: Juan Pablo De la torre Valdez
-    Author URI: http://twitter.com/codigoconjuan
+    Author: Andrés Valencia
+    Author URI: http://twitter.com/andres
     Description: Theme Diseñado para el Gimnasio GymFitness
     Version: 1.0
     License: GNU General Public License v2 or later
@@ -1533,3 +1533,4 @@ R: Usa `wp_add_inline_style()` para inyectar CSS dinámico que establece la imag
 ---
 
 **Tip final:** Practica explicando cada concepto con ejemplos de este proyecto. En una entrevista, poder decir "en mi proyecto GymFitness implementé X usando Y" es mucho más poderoso que solo dar definiciones teóricas.
+
